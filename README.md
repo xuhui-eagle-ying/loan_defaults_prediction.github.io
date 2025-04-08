@@ -1,4 +1,4 @@
-# Loan Status Prediction Analysis
+# Loan Default Prediction - Machine Learning Project
 
 ## Project Overview
 
