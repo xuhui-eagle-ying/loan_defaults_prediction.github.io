@@ -42,12 +42,12 @@ This project involves a detailed analysis of a dataset containing over 30,000 da
 
 ## Conclusion
 
-This project demonstrates the effective use of data science techniques, including machine learning, anomaly detection, and model evaluation, to solve real-world problems in the financial industry. By identifying key factors that influence loan status, the models provide valuable insights that can help reduce defaults and improve decision-making processes in the lending sector.
+This project demonstrates the effective use of data science techniques, including machine learning, anomaly detection, and model evaluation, to solve real-world problems in the financial industry. By identifying key factors influencing loan status, the models provide valuable insights that can help reduce defaults and improve decision-making processes in the lending sector.
 
 ---
 
 ### Tools and Technologies Used:
-- **Programming Language**: R
-- **Libraries/Packages**: `caret`, `xgboost`, `randomForest`, `neuralnet`, `glmnet`
-- **Algorithms**: Logistic Regression, Lasso, Random Forest, XGBoost, Neural Network
-- **Tools**: Jupyter Notebooks, RStudio
+- **Programming Language**: Python
+- **Libraries/Packages**: `pandas`, `matplotlib`, `scikit-learn`, `tensorflow`, `keras`, `xgboost`
+- **Algorithms**: Logistic Regression, Lasso, Neural Network, Random Forest, XGBoost
+- **Tools**: Jupyter Notebooks
