@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves a detailed analysis of a dataset containing over 30,000 data points on loan status. The goal is to predict loan status (approved, rejected, or pending) and reduce loan defaults by identifying the key factors influencing loan approval. The analysis includes data cleansing, feature engineering, model training, and performance evaluation.
+This project involves a detailed analysis of a dataset containing over 30,000 data points on loan status. The goal is to predict loan status (current or default) and reduce loan defaults by identifying the key factors influencing loan approval. The analysis includes data cleansing, feature engineering, model training, and performance evaluation.
 
 ## Steps Involved
 
