@@ -7,7 +7,7 @@ This project involves a detailed analysis of a dataset containing over 30,000 da
 ## Steps Involved
 
 ### 1. Data Preprocessing
-- **Data Cleansing**: Removed missing, duplicate, and irrelevant data points to ensure the dataset is accurate and ready for analysis.
+- **Data Cleansing**: Removed missing, duplicate, and irrelevant data points to ensure the dataset was accurate and ready for analysis.
 - **Feature Engineering**: Derived new features and transformed existing ones to enhance the predictive power of the models.
 - **Exploratory Data Analysis (EDA)**: Conducted thorough exploratory analysis to understand distributions, detect trends, and visualize relationships between features.
 
@@ -32,7 +32,7 @@ This project involves a detailed analysis of a dataset containing over 30,000 da
   - **Precision**
   - **Recall**
   - **F1 Score**
-  - **AUC-ROC Curve**: Achieved 98% AUC, demonstrating excellent model performance in distinguishing between loan statuses.
+  - **AUC-ROC Curve**: Achieved 99% AUC, demonstrating excellent model performance in distinguishing between loan statuses.
 
 - **Confusion Matrix**: Created confusion matrices to visualize the model's performance in terms of true positives, false positives, true negatives, and false negatives.
 
